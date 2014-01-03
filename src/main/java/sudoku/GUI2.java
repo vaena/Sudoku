@@ -602,6 +602,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel18, gridBagConstraints);
 
         jPanel19.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel19.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel19MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel19Layout = new javax.swing.GroupLayout(jPanel19);
         jPanel19.setLayout(jPanel19Layout);
@@ -624,6 +629,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel19, gridBagConstraints);
 
         jPanel20.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel20.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel20MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel20Layout = new javax.swing.GroupLayout(jPanel20);
         jPanel20.setLayout(jPanel20Layout);
@@ -646,6 +656,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel20, gridBagConstraints);
 
         jPanel21.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel21.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel21MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel21Layout = new javax.swing.GroupLayout(jPanel21);
         jPanel21.setLayout(jPanel21Layout);
@@ -668,6 +683,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel21, gridBagConstraints);
 
         jPanel22.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel22.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel22MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel22Layout = new javax.swing.GroupLayout(jPanel22);
         jPanel22.setLayout(jPanel22Layout);
@@ -690,6 +710,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel22, gridBagConstraints);
 
         jPanel23.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel23.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel23MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel23Layout = new javax.swing.GroupLayout(jPanel23);
         jPanel23.setLayout(jPanel23Layout);
@@ -712,6 +737,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel23, gridBagConstraints);
 
         jPanel24.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel24.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel24MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel24Layout = new javax.swing.GroupLayout(jPanel24);
         jPanel24.setLayout(jPanel24Layout);
@@ -734,6 +764,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel24, gridBagConstraints);
 
         jPanel25.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel25.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel25MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel25Layout = new javax.swing.GroupLayout(jPanel25);
         jPanel25.setLayout(jPanel25Layout);
@@ -756,6 +791,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel25, gridBagConstraints);
 
         jPanel26.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel26.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel26MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel26Layout = new javax.swing.GroupLayout(jPanel26);
         jPanel26.setLayout(jPanel26Layout);
@@ -778,6 +818,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel26, gridBagConstraints);
 
         jPanel27.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel27.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel27MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel27Layout = new javax.swing.GroupLayout(jPanel27);
         jPanel27.setLayout(jPanel27Layout);
@@ -800,6 +845,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel27, gridBagConstraints);
 
         jPanel28.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel28.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel28MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel28Layout = new javax.swing.GroupLayout(jPanel28);
         jPanel28.setLayout(jPanel28Layout);
@@ -822,6 +872,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel28, gridBagConstraints);
 
         jPanel29.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel29.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel29MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel29Layout = new javax.swing.GroupLayout(jPanel29);
         jPanel29.setLayout(jPanel29Layout);
@@ -844,6 +899,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel29, gridBagConstraints);
 
         jPanel30.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel30.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel30MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel30Layout = new javax.swing.GroupLayout(jPanel30);
         jPanel30.setLayout(jPanel30Layout);
@@ -866,6 +926,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel30, gridBagConstraints);
 
         jPanel31.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel31.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel31MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel31Layout = new javax.swing.GroupLayout(jPanel31);
         jPanel31.setLayout(jPanel31Layout);
@@ -888,6 +953,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel31, gridBagConstraints);
 
         jPanel32.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel32.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel32MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel32Layout = new javax.swing.GroupLayout(jPanel32);
         jPanel32.setLayout(jPanel32Layout);
@@ -910,6 +980,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel32, gridBagConstraints);
 
         jPanel33.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel33.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel33MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel33Layout = new javax.swing.GroupLayout(jPanel33);
         jPanel33.setLayout(jPanel33Layout);
@@ -932,6 +1007,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel33, gridBagConstraints);
 
         jPanel34.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel34.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel34MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel34Layout = new javax.swing.GroupLayout(jPanel34);
         jPanel34.setLayout(jPanel34Layout);
@@ -954,6 +1034,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel34, gridBagConstraints);
 
         jPanel35.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel35.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel35MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel35Layout = new javax.swing.GroupLayout(jPanel35);
         jPanel35.setLayout(jPanel35Layout);
@@ -976,6 +1061,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel35, gridBagConstraints);
 
         jPanel36.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel36.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel36MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel36Layout = new javax.swing.GroupLayout(jPanel36);
         jPanel36.setLayout(jPanel36Layout);
@@ -998,6 +1088,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel36, gridBagConstraints);
 
         jPanel37.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel37.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel37MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel37Layout = new javax.swing.GroupLayout(jPanel37);
         jPanel37.setLayout(jPanel37Layout);
@@ -1020,6 +1115,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel37, gridBagConstraints);
 
         jPanel38.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel38.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel38MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel38Layout = new javax.swing.GroupLayout(jPanel38);
         jPanel38.setLayout(jPanel38Layout);
@@ -1042,6 +1142,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel38, gridBagConstraints);
 
         jPanel39.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel39.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel39MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel39Layout = new javax.swing.GroupLayout(jPanel39);
         jPanel39.setLayout(jPanel39Layout);
@@ -1064,6 +1169,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel39, gridBagConstraints);
 
         jPanel40.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel40.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel40MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel40Layout = new javax.swing.GroupLayout(jPanel40);
         jPanel40.setLayout(jPanel40Layout);
@@ -1086,6 +1196,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel40, gridBagConstraints);
 
         jPanel41.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel41.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel41MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel41Layout = new javax.swing.GroupLayout(jPanel41);
         jPanel41.setLayout(jPanel41Layout);
@@ -1108,6 +1223,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel41, gridBagConstraints);
 
         jPanel42.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel42.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel42MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel42Layout = new javax.swing.GroupLayout(jPanel42);
         jPanel42.setLayout(jPanel42Layout);
@@ -1130,6 +1250,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel42, gridBagConstraints);
 
         jPanel43.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel43.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel43MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel43Layout = new javax.swing.GroupLayout(jPanel43);
         jPanel43.setLayout(jPanel43Layout);
@@ -1152,6 +1277,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel43, gridBagConstraints);
 
         jPanel44.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel44.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel44MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel44Layout = new javax.swing.GroupLayout(jPanel44);
         jPanel44.setLayout(jPanel44Layout);
@@ -1174,6 +1304,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel44, gridBagConstraints);
 
         jPanel45.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel45.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel45MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel45Layout = new javax.swing.GroupLayout(jPanel45);
         jPanel45.setLayout(jPanel45Layout);
@@ -1196,6 +1331,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel45, gridBagConstraints);
 
         jPanel46.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel46.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel46MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel46Layout = new javax.swing.GroupLayout(jPanel46);
         jPanel46.setLayout(jPanel46Layout);
@@ -1218,6 +1358,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel46, gridBagConstraints);
 
         jPanel47.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel47.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel47MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel47Layout = new javax.swing.GroupLayout(jPanel47);
         jPanel47.setLayout(jPanel47Layout);
@@ -1240,6 +1385,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel47, gridBagConstraints);
 
         jPanel48.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel48.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel48MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel48Layout = new javax.swing.GroupLayout(jPanel48);
         jPanel48.setLayout(jPanel48Layout);
@@ -1262,6 +1412,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel48, gridBagConstraints);
 
         jPanel49.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel49.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel49MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel49Layout = new javax.swing.GroupLayout(jPanel49);
         jPanel49.setLayout(jPanel49Layout);
@@ -1284,6 +1439,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel49, gridBagConstraints);
 
         jPanel50.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel50.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel50MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel50Layout = new javax.swing.GroupLayout(jPanel50);
         jPanel50.setLayout(jPanel50Layout);
@@ -1306,6 +1466,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel50, gridBagConstraints);
 
         jPanel51.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel51.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel51MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel51Layout = new javax.swing.GroupLayout(jPanel51);
         jPanel51.setLayout(jPanel51Layout);
@@ -1328,6 +1493,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel51, gridBagConstraints);
 
         jPanel52.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel52.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel52MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel52Layout = new javax.swing.GroupLayout(jPanel52);
         jPanel52.setLayout(jPanel52Layout);
@@ -1350,6 +1520,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel52, gridBagConstraints);
 
         jPanel53.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel53.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel53MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel53Layout = new javax.swing.GroupLayout(jPanel53);
         jPanel53.setLayout(jPanel53Layout);
@@ -1372,6 +1547,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel53, gridBagConstraints);
 
         jPanel54.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel54.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel54MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel54Layout = new javax.swing.GroupLayout(jPanel54);
         jPanel54.setLayout(jPanel54Layout);
@@ -1394,6 +1574,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel54, gridBagConstraints);
 
         jPanel55.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel55.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel55MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel55Layout = new javax.swing.GroupLayout(jPanel55);
         jPanel55.setLayout(jPanel55Layout);
@@ -1416,6 +1601,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel55, gridBagConstraints);
 
         jPanel56.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel56.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel56MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel56Layout = new javax.swing.GroupLayout(jPanel56);
         jPanel56.setLayout(jPanel56Layout);
@@ -1438,6 +1628,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel56, gridBagConstraints);
 
         jPanel57.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel57.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel57MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel57Layout = new javax.swing.GroupLayout(jPanel57);
         jPanel57.setLayout(jPanel57Layout);
@@ -1460,6 +1655,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel57, gridBagConstraints);
 
         jPanel58.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel58.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel58MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel58Layout = new javax.swing.GroupLayout(jPanel58);
         jPanel58.setLayout(jPanel58Layout);
@@ -1482,6 +1682,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel58, gridBagConstraints);
 
         jPanel59.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel59.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel59MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel59Layout = new javax.swing.GroupLayout(jPanel59);
         jPanel59.setLayout(jPanel59Layout);
@@ -1504,6 +1709,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel59, gridBagConstraints);
 
         jPanel60.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel60.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel60MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel60Layout = new javax.swing.GroupLayout(jPanel60);
         jPanel60.setLayout(jPanel60Layout);
@@ -1526,6 +1736,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel60, gridBagConstraints);
 
         jPanel61.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel61.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel61MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel61Layout = new javax.swing.GroupLayout(jPanel61);
         jPanel61.setLayout(jPanel61Layout);
@@ -1548,6 +1763,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel61, gridBagConstraints);
 
         jPanel62.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel62.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel62MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel62Layout = new javax.swing.GroupLayout(jPanel62);
         jPanel62.setLayout(jPanel62Layout);
@@ -1570,6 +1790,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel62, gridBagConstraints);
 
         jPanel63.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel63.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel63MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel63Layout = new javax.swing.GroupLayout(jPanel63);
         jPanel63.setLayout(jPanel63Layout);
@@ -1592,6 +1817,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel63, gridBagConstraints);
 
         jPanel64.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel64.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel64MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel64Layout = new javax.swing.GroupLayout(jPanel64);
         jPanel64.setLayout(jPanel64Layout);
@@ -1614,6 +1844,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel64, gridBagConstraints);
 
         jPanel65.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel65.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel65MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel65Layout = new javax.swing.GroupLayout(jPanel65);
         jPanel65.setLayout(jPanel65Layout);
@@ -1636,6 +1871,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel65, gridBagConstraints);
 
         jPanel66.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel66.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel66MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel66Layout = new javax.swing.GroupLayout(jPanel66);
         jPanel66.setLayout(jPanel66Layout);
@@ -1658,6 +1898,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel66, gridBagConstraints);
 
         jPanel67.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel67.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel67MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel67Layout = new javax.swing.GroupLayout(jPanel67);
         jPanel67.setLayout(jPanel67Layout);
@@ -1680,6 +1925,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel67, gridBagConstraints);
 
         jPanel68.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel68.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel68MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel68Layout = new javax.swing.GroupLayout(jPanel68);
         jPanel68.setLayout(jPanel68Layout);
@@ -1702,6 +1952,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel68, gridBagConstraints);
 
         jPanel69.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel69.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel69MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel69Layout = new javax.swing.GroupLayout(jPanel69);
         jPanel69.setLayout(jPanel69Layout);
@@ -1724,6 +1979,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel69, gridBagConstraints);
 
         jPanel70.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel70.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel70MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel70Layout = new javax.swing.GroupLayout(jPanel70);
         jPanel70.setLayout(jPanel70Layout);
@@ -1746,6 +2006,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel70, gridBagConstraints);
 
         jPanel71.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel71.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel71MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel71Layout = new javax.swing.GroupLayout(jPanel71);
         jPanel71.setLayout(jPanel71Layout);
@@ -1768,6 +2033,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel71, gridBagConstraints);
 
         jPanel72.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel72.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel72MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel72Layout = new javax.swing.GroupLayout(jPanel72);
         jPanel72.setLayout(jPanel72Layout);
@@ -1790,6 +2060,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel72, gridBagConstraints);
 
         jPanel73.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel73.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel73MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel73Layout = new javax.swing.GroupLayout(jPanel73);
         jPanel73.setLayout(jPanel73Layout);
@@ -1812,6 +2087,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel73, gridBagConstraints);
 
         jPanel74.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel74.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel74MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel74Layout = new javax.swing.GroupLayout(jPanel74);
         jPanel74.setLayout(jPanel74Layout);
@@ -1834,6 +2114,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel74, gridBagConstraints);
 
         jPanel75.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel75.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel75MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel75Layout = new javax.swing.GroupLayout(jPanel75);
         jPanel75.setLayout(jPanel75Layout);
@@ -1856,6 +2141,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel75, gridBagConstraints);
 
         jPanel76.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel76.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel76MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel76Layout = new javax.swing.GroupLayout(jPanel76);
         jPanel76.setLayout(jPanel76Layout);
@@ -1878,6 +2168,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel76, gridBagConstraints);
 
         jPanel77.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel77.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel77MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel77Layout = new javax.swing.GroupLayout(jPanel77);
         jPanel77.setLayout(jPanel77Layout);
@@ -1900,6 +2195,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel77, gridBagConstraints);
 
         jPanel78.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel78.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel78MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel78Layout = new javax.swing.GroupLayout(jPanel78);
         jPanel78.setLayout(jPanel78Layout);
@@ -1922,6 +2222,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel78, gridBagConstraints);
 
         jPanel79.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel79.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel79MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel79Layout = new javax.swing.GroupLayout(jPanel79);
         jPanel79.setLayout(jPanel79Layout);
@@ -1944,6 +2249,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel79, gridBagConstraints);
 
         jPanel80.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel80.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel80MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel80Layout = new javax.swing.GroupLayout(jPanel80);
         jPanel80.setLayout(jPanel80Layout);
@@ -1966,6 +2276,11 @@ public class GUI2 extends javax.swing.JFrame {
         getContentPane().add(jPanel80, gridBagConstraints);
 
         jPanel81.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel81.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jPanel81MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel81Layout = new javax.swing.GroupLayout(jPanel81);
         jPanel81.setLayout(jPanel81Layout);
@@ -2086,6 +2401,258 @@ public class GUI2 extends javax.swing.JFrame {
     private void jPanel18MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel18MouseClicked
         // TODO add your handling code here:
     }//GEN-LAST:event_jPanel18MouseClicked
+
+    private void jPanel19MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel19MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel19MouseClicked
+
+    private void jPanel20MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel20MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel20MouseClicked
+
+    private void jPanel21MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel21MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel21MouseClicked
+
+    private void jPanel22MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel22MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel22MouseClicked
+
+    private void jPanel23MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel23MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel23MouseClicked
+
+    private void jPanel24MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel24MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel24MouseClicked
+
+    private void jPanel25MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel25MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel25MouseClicked
+
+    private void jPanel26MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel26MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel26MouseClicked
+
+    private void jPanel27MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel27MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel27MouseClicked
+
+    private void jPanel28MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel28MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel28MouseClicked
+
+    private void jPanel29MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel29MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel29MouseClicked
+
+    private void jPanel30MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel30MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel30MouseClicked
+
+    private void jPanel31MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel31MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel31MouseClicked
+
+    private void jPanel32MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel32MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel32MouseClicked
+
+    private void jPanel33MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel33MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel33MouseClicked
+
+    private void jPanel34MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel34MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel34MouseClicked
+
+    private void jPanel35MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel35MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel35MouseClicked
+
+    private void jPanel36MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel36MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel36MouseClicked
+
+    private void jPanel37MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel37MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel37MouseClicked
+
+    private void jPanel38MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel38MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel38MouseClicked
+
+    private void jPanel39MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel39MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel39MouseClicked
+
+    private void jPanel40MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel40MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel40MouseClicked
+
+    private void jPanel41MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel41MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel41MouseClicked
+
+    private void jPanel42MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel42MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel42MouseClicked
+
+    private void jPanel43MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel43MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel43MouseClicked
+
+    private void jPanel44MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel44MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel44MouseClicked
+
+    private void jPanel45MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel45MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel45MouseClicked
+
+    private void jPanel46MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel46MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel46MouseClicked
+
+    private void jPanel47MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel47MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel47MouseClicked
+
+    private void jPanel48MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel48MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel48MouseClicked
+
+    private void jPanel49MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel49MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel49MouseClicked
+
+    private void jPanel50MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel50MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel50MouseClicked
+
+    private void jPanel51MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel51MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel51MouseClicked
+
+    private void jPanel52MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel52MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel52MouseClicked
+
+    private void jPanel53MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel53MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel53MouseClicked
+
+    private void jPanel54MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel54MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel54MouseClicked
+
+    private void jPanel55MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel55MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel55MouseClicked
+
+    private void jPanel56MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel56MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel56MouseClicked
+
+    private void jPanel57MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel57MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel57MouseClicked
+
+    private void jPanel58MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel58MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel58MouseClicked
+
+    private void jPanel59MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel59MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel59MouseClicked
+
+    private void jPanel60MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel60MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel60MouseClicked
+
+    private void jPanel61MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel61MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel61MouseClicked
+
+    private void jPanel62MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel62MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel62MouseClicked
+
+    private void jPanel63MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel63MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel63MouseClicked
+
+    private void jPanel64MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel64MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel64MouseClicked
+
+    private void jPanel65MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel65MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel65MouseClicked
+
+    private void jPanel66MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel66MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel66MouseClicked
+
+    private void jPanel67MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel67MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel67MouseClicked
+
+    private void jPanel68MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel68MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel68MouseClicked
+
+    private void jPanel69MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel69MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel69MouseClicked
+
+    private void jPanel70MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel70MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel70MouseClicked
+
+    private void jPanel71MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel71MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel71MouseClicked
+
+    private void jPanel72MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel72MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel72MouseClicked
+
+    private void jPanel73MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel73MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel73MouseClicked
+
+    private void jPanel74MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel74MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel74MouseClicked
+
+    private void jPanel75MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel75MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel75MouseClicked
+
+    private void jPanel76MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel76MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel76MouseClicked
+
+    private void jPanel77MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel77MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel77MouseClicked
+
+    private void jPanel78MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel78MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel78MouseClicked
+
+    private void jPanel79MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel79MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel79MouseClicked
+
+    private void jPanel80MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel80MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel80MouseClicked
+
+    private void jPanel81MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel81MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel81MouseClicked
 
     /**
      * @param args the command line arguments
