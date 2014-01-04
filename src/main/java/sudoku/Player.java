@@ -4,7 +4,7 @@ package sudoku;
  * Abstract class, υπάρχει απλά για την περίπτωση επέκτασης που θέλουμε να επιλύει το computerplayer αυτόματα προβλήματα
  */
 
-public abstract class Player extends PersonPlayer
+public abstract class Player
 {
 
 	

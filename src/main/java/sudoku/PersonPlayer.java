@@ -2,7 +2,7 @@ package sudoku;
 
 import java.util.ArrayList;
 
-public class PersonPlayer
+public class PersonPlayer extends Player
 {
 	/**
 	 * τα παιχνίδια που εχει ήδη παίξει ο παίκτης
