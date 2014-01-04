@@ -1,31 +1,17 @@
 package sudoku;
 
-
-/**
- * <!-- begin-user-doc -->
- * <!--  end-user-doc  -->
- * @generated
- */
+import java.util.ArrayList;
 
 public class PersonPlayer
 {
 	/**
-	 * τα παιχνίδια που εχει ήδη παίξει ο παίκτης<br>
-	 * <!-- begin-user-doc -->
-	 * <!--  end-user-doc  -->
-	 * @generated
-	 * @ordered
+	 * τα παιχνίδια που εχει ήδη παίξει ο παίκτης
 	 */
 	
-	public Sudoku arrayList_playedGames;
+	public ArrayList<Sudoku> playedGames;
 	
-
 	/**
 	 * constructor της κλάσης PersonPlayer
-	 * <!-- begin-user-doc -->
-	 * <!--  end-user-doc  -->
-	 * @generated
-	 * @ordered
 	 */
 	
 	public PersonPlayer() {
