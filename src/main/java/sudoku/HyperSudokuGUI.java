@@ -111,9 +111,11 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("SUDOKU");
+        setBackground(new java.awt.Color(0, 0, 0));
         setBounds(new java.awt.Rectangle(0, 0, 0, 0));
         setMaximizedBounds(new java.awt.Rectangle(0, 0, 0, 0));
         setMinimumSize(new java.awt.Dimension(504, 547));
+        setPreferredSize(new java.awt.Dimension(504, 547));
         getContentPane().setLayout(new java.awt.GridBagLayout());
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
@@ -395,7 +397,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 0, 0, 0);
         getContentPane().add(jPanel10, gridBagConstraints);
 
-        jPanel11.setBackground(new java.awt.Color(255, 255, 255));
         jPanel11.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel11.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -423,7 +424,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel11, gridBagConstraints);
 
-        jPanel12.setBackground(new java.awt.Color(255, 255, 255));
         jPanel12.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel12.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -451,7 +451,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel12, gridBagConstraints);
 
-        jPanel13.setBackground(new java.awt.Color(255, 255, 255));
         jPanel13.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel13.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -507,7 +506,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel14, gridBagConstraints);
 
-        jPanel15.setBackground(new java.awt.Color(255, 255, 255));
         jPanel15.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel15.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -535,7 +533,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel15, gridBagConstraints);
 
-        jPanel16.setBackground(new java.awt.Color(255, 255, 255));
         jPanel16.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel16.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -563,7 +560,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel16, gridBagConstraints);
 
-        jPanel17.setBackground(new java.awt.Color(255, 255, 255));
         jPanel17.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel17.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -647,7 +643,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 0, 0, 0);
         getContentPane().add(jPanel19, gridBagConstraints);
 
-        jPanel20.setBackground(new java.awt.Color(255, 255, 255));
         jPanel20.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel20.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -675,7 +670,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel20, gridBagConstraints);
 
-        jPanel21.setBackground(new java.awt.Color(255, 255, 255));
         jPanel21.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel21.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -703,7 +697,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel21, gridBagConstraints);
 
-        jPanel22.setBackground(new java.awt.Color(255, 255, 255));
         jPanel22.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel22.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -759,7 +752,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel23, gridBagConstraints);
 
-        jPanel24.setBackground(new java.awt.Color(255, 255, 255));
         jPanel24.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel24.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -787,7 +779,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel24, gridBagConstraints);
 
-        jPanel25.setBackground(new java.awt.Color(255, 255, 255));
         jPanel25.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel25.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -815,7 +806,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel25, gridBagConstraints);
 
-        jPanel26.setBackground(new java.awt.Color(255, 255, 255));
         jPanel26.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel26.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -899,7 +889,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 0, 0, 0);
         getContentPane().add(jPanel28, gridBagConstraints);
 
-        jPanel29.setBackground(new java.awt.Color(255, 255, 255));
         jPanel29.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel29.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -927,7 +916,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel29, gridBagConstraints);
 
-        jPanel30.setBackground(new java.awt.Color(255, 255, 255));
         jPanel30.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel30.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -955,7 +943,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel30, gridBagConstraints);
 
-        jPanel31.setBackground(new java.awt.Color(255, 255, 255));
         jPanel31.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel31.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1011,7 +998,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel32, gridBagConstraints);
 
-        jPanel33.setBackground(new java.awt.Color(255, 255, 255));
         jPanel33.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel33.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1039,7 +1025,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel33, gridBagConstraints);
 
-        jPanel34.setBackground(new java.awt.Color(255, 255, 255));
         jPanel34.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel34.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1067,7 +1052,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel34, gridBagConstraints);
 
-        jPanel35.setBackground(new java.awt.Color(255, 255, 255));
         jPanel35.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel35.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1403,7 +1387,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 0, 0, 0);
         getContentPane().add(jPanel46, gridBagConstraints);
 
-        jPanel47.setBackground(new java.awt.Color(255, 255, 255));
         jPanel47.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel47.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1431,7 +1414,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel47, gridBagConstraints);
 
-        jPanel48.setBackground(new java.awt.Color(255, 255, 255));
         jPanel48.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel48.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1459,7 +1441,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel48, gridBagConstraints);
 
-        jPanel49.setBackground(new java.awt.Color(255, 255, 255));
         jPanel49.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel49.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1515,7 +1496,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel50, gridBagConstraints);
 
-        jPanel51.setBackground(new java.awt.Color(255, 255, 255));
         jPanel51.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel51.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1543,7 +1523,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel51, gridBagConstraints);
 
-        jPanel52.setBackground(new java.awt.Color(255, 255, 255));
         jPanel52.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel52.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1571,7 +1550,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel52, gridBagConstraints);
 
-        jPanel53.setBackground(new java.awt.Color(255, 255, 255));
         jPanel53.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel53.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1655,7 +1633,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 0, 0, 0);
         getContentPane().add(jPanel55, gridBagConstraints);
 
-        jPanel56.setBackground(new java.awt.Color(255, 255, 255));
         jPanel56.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel56.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1683,7 +1660,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel56, gridBagConstraints);
 
-        jPanel57.setBackground(new java.awt.Color(255, 255, 255));
         jPanel57.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel57.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1711,7 +1687,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel57, gridBagConstraints);
 
-        jPanel58.setBackground(new java.awt.Color(255, 255, 255));
         jPanel58.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel58.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1767,7 +1742,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel59, gridBagConstraints);
 
-        jPanel60.setBackground(new java.awt.Color(255, 255, 255));
         jPanel60.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel60.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1795,7 +1769,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel60, gridBagConstraints);
 
-        jPanel61.setBackground(new java.awt.Color(255, 255, 255));
         jPanel61.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel61.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1823,7 +1796,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel61, gridBagConstraints);
 
-        jPanel62.setBackground(new java.awt.Color(255, 255, 255));
         jPanel62.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel62.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1907,7 +1879,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 0, 0, 0);
         getContentPane().add(jPanel64, gridBagConstraints);
 
-        jPanel65.setBackground(new java.awt.Color(255, 255, 255));
         jPanel65.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel65.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1935,7 +1906,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel65, gridBagConstraints);
 
-        jPanel66.setBackground(new java.awt.Color(255, 255, 255));
         jPanel66.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel66.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1963,7 +1933,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel66, gridBagConstraints);
 
-        jPanel67.setBackground(new java.awt.Color(255, 255, 255));
         jPanel67.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel67.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -2019,7 +1988,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel68, gridBagConstraints);
 
-        jPanel69.setBackground(new java.awt.Color(255, 255, 255));
         jPanel69.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel69.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -2047,7 +2015,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel69, gridBagConstraints);
 
-        jPanel70.setBackground(new java.awt.Color(255, 255, 255));
         jPanel70.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel70.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -2075,7 +2042,6 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(4, 4, 0, 0);
         getContentPane().add(jPanel70, gridBagConstraints);
 
-        jPanel71.setBackground(new java.awt.Color(255, 255, 255));
         jPanel71.setPreferredSize(new java.awt.Dimension(50, 50));
         jPanel71.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
