@@ -12,15 +12,19 @@ public abstract class Player extends PersonPlayer
 	private String nickname;
 	
 	public Player(){
-		super();
 	}
+        
+        public Player(String n){
+            super();
+            nickname = n;
+        }
 
 	/**
 	 * αλλάζει το nickname
-         * @param parameter
+         * @param n
 	 */
-	public void setNickname(String parameter) {
-		// TODO : to implement	
+	public void setNickname(String n) {
+            nickname = n;
 	}
 	
 	/**
@@ -28,7 +32,7 @@ public abstract class Player extends PersonPlayer
          * @return 
 	 */
 	public String getNickname() {
-		return "";	
+		return nickname;	
 	}
 	
 }
