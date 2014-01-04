@@ -110,7 +110,7 @@ public class HyperSudokuGUI extends javax.swing.JFrame {
         jMenuItem3 = new javax.swing.JMenuItem();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("SUDOKU");
+        setTitle("HyperSudoku");
         setBackground(new java.awt.Color(0, 0, 0));
         setBounds(new java.awt.Rectangle(0, 0, 0, 0));
         setMaximizedBounds(new java.awt.Rectangle(0, 0, 0, 0));

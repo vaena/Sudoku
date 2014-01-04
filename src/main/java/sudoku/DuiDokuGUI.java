@@ -48,6 +48,8 @@ public class DuiDokuGUI extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("DuiDoku");
         setBackground(new java.awt.Color(0, 0, 0));
+        setBounds(new java.awt.Rectangle(0, 0, 0, 0));
+        setMaximizedBounds(new java.awt.Rectangle(0, 0, 0, 0));
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
 
