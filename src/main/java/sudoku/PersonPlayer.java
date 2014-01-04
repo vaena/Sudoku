@@ -13,14 +13,13 @@ public class PersonPlayer
 	/**
 	 * constructor της κλάσης PersonPlayer
 	 */
-	
 	public PersonPlayer() {
 		super();
 		// TODO : construct me	
 	}
 	
 	/**
-	 * μέθοδος για την προσθήκη sudoku<div>&nbsp;στο ArrayList&nbsp;
+	 * μέθοδος για την προσθήκη sudoku στο ArrayList&nbsp;
          * @param parameter
 	 * @generated
 	 * @ordered
