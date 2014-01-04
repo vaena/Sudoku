@@ -20,9 +20,8 @@ public class PersonPlayer
 	}
 	
 	/**
-	 * μέθοδος για την προσθήκη sudoku<div>&nbsp;στο ArrayList&nbsp;</div>
-	 * <!-- begin-user-doc -->
-	 * <!--  end-user-doc  -->
+	 * μέθοδος για την προσθήκη sudoku<div>&nbsp;στο ArrayList&nbsp;
+         * @param parameter
 	 * @generated
 	 * @ordered
 	 */
@@ -30,6 +29,8 @@ public class PersonPlayer
 	public void addPlayedGames(String parameter) {
 		// TODO : to implement	
 	}
-	
+        
+        public ArrayList<Sudoku> getPlayedGames(){
+            return playedGames;        
+        }	
 }
-
