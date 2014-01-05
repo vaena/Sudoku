@@ -55,11 +55,11 @@ public class DuiDokuGUI extends javax.swing.JFrame {
         setMaximizedBounds(new java.awt.Rectangle(0, 0, 0, 0));
         setMinimumSize(new java.awt.Dimension(450, 450));
         setPreferredSize(new java.awt.Dimension(450, 450));
-        setResizable(false);
         getContentPane().setLayout(new java.awt.GridLayout(4, 4, 8, 8));
 
         jLabel1.setBackground(new java.awt.Color(255, 255, 255));
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setOpaque(true);
         jLabel1.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel1.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -71,6 +71,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel2.setBackground(new java.awt.Color(255, 255, 255));
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel2.setOpaque(true);
         jLabel2.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel2.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -82,6 +83,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel3.setBackground(new java.awt.Color(255, 255, 255));
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel3.setOpaque(true);
         jLabel3.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel3.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -93,6 +95,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel4.setBackground(new java.awt.Color(255, 255, 255));
         jLabel4.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel4.setOpaque(true);
         jLabel4.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel4.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -104,6 +107,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel5.setBackground(new java.awt.Color(255, 255, 255));
         jLabel5.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel5.setOpaque(true);
         jLabel5.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel5.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -115,6 +119,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel6.setBackground(new java.awt.Color(255, 255, 255));
         jLabel6.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel6.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel6.setOpaque(true);
         jLabel6.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel6.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -126,6 +131,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel7.setBackground(new java.awt.Color(255, 255, 255));
         jLabel7.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel7.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel7.setOpaque(true);
         jLabel7.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel7.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -137,6 +143,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel8.setBackground(new java.awt.Color(255, 255, 255));
         jLabel8.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel8.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel8.setOpaque(true);
         jLabel8.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel8.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -148,6 +155,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel9.setBackground(new java.awt.Color(255, 255, 255));
         jLabel9.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel9.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel9.setOpaque(true);
         jLabel9.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel9.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -159,6 +167,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel10.setBackground(new java.awt.Color(255, 255, 255));
         jLabel10.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel10.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel10.setOpaque(true);
         jLabel10.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel10.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -170,6 +179,8 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel11.setBackground(new java.awt.Color(255, 255, 255));
         jLabel11.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel11.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel11.setText("8");
         jLabel11.setOpaque(true);
         jLabel11.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel11.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -181,6 +192,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel12.setBackground(new java.awt.Color(255, 255, 255));
         jLabel12.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel12.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel12.setOpaque(true);
         jLabel12.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel12.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -192,6 +204,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel13.setBackground(new java.awt.Color(255, 255, 255));
         jLabel13.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel13.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel13.setOpaque(true);
         jLabel13.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel13.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -203,6 +216,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel14.setBackground(new java.awt.Color(255, 255, 255));
         jLabel14.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel14.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel14.setOpaque(true);
         jLabel14.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel14.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -214,6 +228,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel15.setBackground(new java.awt.Color(255, 255, 255));
         jLabel15.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel15.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel15.setOpaque(true);
         jLabel15.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel15.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -225,6 +240,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
 
         jLabel16.setBackground(new java.awt.Color(255, 255, 255));
         jLabel16.setFont(new java.awt.Font("Tahoma", 1, 48)); // NOI18N
+        jLabel16.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel16.setOpaque(true);
         jLabel16.setPreferredSize(new java.awt.Dimension(100, 100));
         jLabel16.addMouseListener(new java.awt.event.MouseAdapter() {
