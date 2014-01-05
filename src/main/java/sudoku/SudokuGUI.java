@@ -113,7 +113,7 @@ public class SudokuGUI extends javax.swing.JFrame {
         setBounds(new java.awt.Rectangle(0, 0, 0, 0));
         setMaximizedBounds(new java.awt.Rectangle(0, 0, 0, 0));
         setMinimumSize(new java.awt.Dimension(504, 547));
-        setPreferredSize(new java.awt.Dimension(500, 550));
+        setPreferredSize(new java.awt.Dimension(504, 547));
         setResizable(false);
         getContentPane().setLayout(new java.awt.GridLayout(9, 9, 4, 4));
 
