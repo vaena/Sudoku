@@ -55,6 +55,7 @@ public class DuiDokuGUI extends javax.swing.JFrame {
         setMaximizedBounds(new java.awt.Rectangle(0, 0, 0, 0));
         setMinimumSize(new java.awt.Dimension(450, 450));
         setPreferredSize(new java.awt.Dimension(450, 450));
+        setResizable(false);
         getContentPane().setLayout(new java.awt.GridLayout(4, 4, 8, 8));
 
         jLabel1.setBackground(new java.awt.Color(255, 255, 255));

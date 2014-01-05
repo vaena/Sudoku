@@ -2,12 +2,12 @@ package sudoku;
 
 import java.awt.Color;
 
-public class SudokuGUI extends javax.swing.JFrame {
+public class HyperSudokuGUI extends javax.swing.JFrame {
 
     /**
      * Creates new form GUI2
      */
-    public SudokuGUI() {
+    public HyperSudokuGUI() {
         initComponents();
         getContentPane().setBackground(Color.BLACK);
     }
@@ -109,7 +109,7 @@ public class SudokuGUI extends javax.swing.JFrame {
         jMenuItem3 = new javax.swing.JMenuItem();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("SUDOKU");
+        setTitle("HyperSudoku");
         setBounds(new java.awt.Rectangle(0, 0, 0, 0));
         setMaximizedBounds(new java.awt.Rectangle(0, 0, 0, 0));
         setMinimumSize(new java.awt.Dimension(504, 547));
@@ -237,7 +237,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel10);
 
-        jLabel11.setBackground(new java.awt.Color(255, 255, 255));
         jLabel11.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel11.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel11.setOpaque(true);
@@ -249,7 +248,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel11);
 
-        jLabel12.setBackground(new java.awt.Color(255, 255, 255));
         jLabel12.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel12.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel12.setOpaque(true);
@@ -261,7 +259,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel12);
 
-        jLabel13.setBackground(new java.awt.Color(255, 255, 255));
         jLabel13.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel13.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel13.setOpaque(true);
@@ -285,7 +282,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel14);
 
-        jLabel15.setBackground(new java.awt.Color(255, 255, 255));
         jLabel15.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel15.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel15.setOpaque(true);
@@ -297,7 +293,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel15);
 
-        jLabel16.setBackground(new java.awt.Color(255, 255, 255));
         jLabel16.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel16.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel16.setOpaque(true);
@@ -309,7 +304,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel16);
 
-        jLabel17.setBackground(new java.awt.Color(255, 255, 255));
         jLabel17.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel17.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel17.setOpaque(true);
@@ -345,7 +339,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel19);
 
-        jLabel20.setBackground(new java.awt.Color(255, 255, 255));
         jLabel20.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel20.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel20.setOpaque(true);
@@ -357,7 +350,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel20);
 
-        jLabel21.setBackground(new java.awt.Color(255, 255, 255));
         jLabel21.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel21.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel21.setOpaque(true);
@@ -369,7 +361,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel21);
 
-        jLabel22.setBackground(new java.awt.Color(255, 255, 255));
         jLabel22.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel22.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel22.setOpaque(true);
@@ -393,7 +384,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel23);
 
-        jLabel24.setBackground(new java.awt.Color(255, 255, 255));
         jLabel24.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel24.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel24.setOpaque(true);
@@ -405,7 +395,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel24);
 
-        jLabel25.setBackground(new java.awt.Color(255, 255, 255));
         jLabel25.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel25.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel25.setOpaque(true);
@@ -417,7 +406,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel25);
 
-        jLabel26.setBackground(new java.awt.Color(255, 255, 255));
         jLabel26.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel26.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel26.setOpaque(true);
@@ -453,7 +441,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel28);
 
-        jLabel29.setBackground(new java.awt.Color(255, 255, 255));
         jLabel29.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel29.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel29.setOpaque(true);
@@ -465,7 +452,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel29);
 
-        jLabel30.setBackground(new java.awt.Color(255, 255, 255));
         jLabel30.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel30.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel30.setOpaque(true);
@@ -477,7 +463,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel30);
 
-        jLabel31.setBackground(new java.awt.Color(255, 255, 255));
         jLabel31.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel31.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel31.setOpaque(true);
@@ -501,7 +486,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel32);
 
-        jLabel33.setBackground(new java.awt.Color(255, 255, 255));
         jLabel33.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel33.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel33.setOpaque(true);
@@ -513,7 +497,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel33);
 
-        jLabel34.setBackground(new java.awt.Color(255, 255, 255));
         jLabel34.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel34.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel34.setOpaque(true);
@@ -525,7 +508,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel34);
 
-        jLabel35.setBackground(new java.awt.Color(255, 255, 255));
         jLabel35.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel35.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel35.setOpaque(true);
@@ -669,7 +651,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel46);
 
-        jLabel47.setBackground(new java.awt.Color(255, 255, 255));
         jLabel47.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel47.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel47.setOpaque(true);
@@ -681,7 +662,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel47);
 
-        jLabel48.setBackground(new java.awt.Color(255, 255, 255));
         jLabel48.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel48.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel48.setOpaque(true);
@@ -693,7 +673,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel48);
 
-        jLabel49.setBackground(new java.awt.Color(255, 255, 255));
         jLabel49.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel49.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel49.setOpaque(true);
@@ -717,7 +696,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel50);
 
-        jLabel51.setBackground(new java.awt.Color(255, 255, 255));
         jLabel51.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel51.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel51.setOpaque(true);
@@ -729,7 +707,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel51);
 
-        jLabel52.setBackground(new java.awt.Color(255, 255, 255));
         jLabel52.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel52.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel52.setOpaque(true);
@@ -741,7 +718,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel52);
 
-        jLabel53.setBackground(new java.awt.Color(255, 255, 255));
         jLabel53.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel53.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel53.setOpaque(true);
@@ -777,7 +753,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel55);
 
-        jLabel56.setBackground(new java.awt.Color(255, 255, 255));
         jLabel56.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel56.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel56.setOpaque(true);
@@ -789,7 +764,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel56);
 
-        jLabel57.setBackground(new java.awt.Color(255, 255, 255));
         jLabel57.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel57.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel57.setOpaque(true);
@@ -801,7 +775,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel57);
 
-        jLabel58.setBackground(new java.awt.Color(255, 255, 255));
         jLabel58.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel58.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel58.setOpaque(true);
@@ -825,7 +798,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel59);
 
-        jLabel60.setBackground(new java.awt.Color(255, 255, 255));
         jLabel60.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel60.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel60.setOpaque(true);
@@ -837,7 +809,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel60);
 
-        jLabel61.setBackground(new java.awt.Color(255, 255, 255));
         jLabel61.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel61.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel61.setOpaque(true);
@@ -849,7 +820,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel61);
 
-        jLabel62.setBackground(new java.awt.Color(255, 255, 255));
         jLabel62.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel62.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel62.setOpaque(true);
@@ -885,7 +855,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel64);
 
-        jLabel65.setBackground(new java.awt.Color(255, 255, 255));
         jLabel65.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel65.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel65.setOpaque(true);
@@ -897,7 +866,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel65);
 
-        jLabel66.setBackground(new java.awt.Color(255, 255, 255));
         jLabel66.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel66.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel66.setOpaque(true);
@@ -909,7 +877,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel66);
 
-        jLabel67.setBackground(new java.awt.Color(255, 255, 255));
         jLabel67.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel67.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel67.setOpaque(true);
@@ -933,7 +900,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel68);
 
-        jLabel69.setBackground(new java.awt.Color(255, 255, 255));
         jLabel69.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel69.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel69.setOpaque(true);
@@ -945,7 +911,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel69);
 
-        jLabel70.setBackground(new java.awt.Color(255, 255, 255));
         jLabel70.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel70.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel70.setOpaque(true);
@@ -957,7 +922,6 @@ public class SudokuGUI extends javax.swing.JFrame {
         });
         getContentPane().add(jLabel70);
 
-        jLabel71.setBackground(new java.awt.Color(255, 255, 255));
         jLabel71.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel71.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel71.setOpaque(true);
@@ -1458,20 +1422,20 @@ public class SudokuGUI extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(SudokuGUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(HyperSudokuGUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(SudokuGUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(HyperSudokuGUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(SudokuGUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(HyperSudokuGUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(SudokuGUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(HyperSudokuGUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new SudokuGUI().setVisible(true);
+                new HyperSudokuGUI().setVisible(true);
             }
         });
     }
